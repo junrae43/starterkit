@@ -43,3 +43,6 @@ next-env.d.ts
 # MCP
 .mcp.json
 .playwright-mcp/
+
+# Claude Code 로컬 설정
+.claude/
