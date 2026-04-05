@@ -44,5 +44,5 @@ next-env.d.ts
 .mcp.json
 .playwright-mcp/
 
-# Claude Code 로컬 설정
-.claude/
+# Claude Code 로컬 설정 (settings.local.json만 제외)
+.claude/settings.local.json
